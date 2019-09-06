@@ -6,7 +6,7 @@ sections:
   section_id: hero
   component: HeroBlock
   content: 'I do science. This is some text. '
-  title: I'm Damanveer
+  title: 'I''m Damanveer '
   actions: []
 - type: contentblock
   template: contentblock
