@@ -16,11 +16,12 @@ sections:
   - label: Contact Me
     url: "/contact"
   component: ContentBlock
-  content: This is the "about" excerpt. It can be used to provide a paragraph about
-    yourself that people can read on the homepage to get a sense of who you are. There
-    also exists a dedicated about page where you can write more about yourself for
-    those who are interested.
-  image: ''
+  content: I use high pressure-temperature experiments to constrain the effect of
+    core formation on the origin of major volatiles (carbon, nitrogen, sulfur and
+    water) in rocky bodies in the inner Solar System. These constraints can help build
+    up a framework to better understand the accretion and differentiation processes
+    operational in the early Solar System.
+  image: "/images/Daman_Grewal.jpeg"
 - type: postsblock
   template: postsblock
   title: Recent Posts
